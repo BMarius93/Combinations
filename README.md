@@ -31,10 +31,10 @@ recurenta de dimensiuni (k+1) x (k+1):
 	.................
 	0 0 0 0 0.....1 1
 
-	Aceasta matrice am ridicat-o la puterea n+1, obtinand astfel in coltul din 
+   Aceasta matrice am ridicat-o la puterea n+1, obtinand astfel in coltul din 
 dreapta-jos numarul de posibilitati in care se pot afla maxim k valori de 1
 consecutive pe o singura coloana. Pentru a afla numarul de posibilitati in care se
 pot afla maxim k valori de 1 consecutive pe o matrice de m coloane, am ridicat 
 elementul din coltul matricei rezultate la puterea m, si am aflat rezultatul final.
-	Pe parcursul acestor calcule, am avut in vedere ca rezultatul final trebuie sa
+   Pe parcursul acestor calcule, am avut in vedere ca rezultatul final trebuie sa
 fie %40009.
